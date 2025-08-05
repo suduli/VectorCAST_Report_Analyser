@@ -1,0 +1,32 @@
+# VectorCAST Report Analyser - Requirements
+# Python 3.9+ required
+
+# Core dependencies
+pandas>=1.5.0           # Data manipulation and analysis
+openpyxl>=3.0.0         # Excel file operations and formatting
+
+# Development dependencies (optional)
+pytest>=7.0.0           # Testing framework
+pytest-cov>=4.0.0       # Code coverage for tests
+black>=22.0.0           # Code formatting
+flake8>=5.0.0           # Code linting
+mypy>=0.991             # Type checking
+pre-commit>=2.20.0      # Git hooks for code quality
+
+# Documentation dependencies (optional)
+sphinx>=5.0.0           # Documentation generation
+sphinx-rtd-theme>=1.0.0 # Read the Docs theme
+myst-parser>=0.18.0     # Markdown support for Sphinx
+
+# Performance monitoring (optional)
+memory-profiler>=0.60.0 # Memory usage profiling
+psutil>=5.9.0           # System and process utilities
+
+# Additional utilities (optional)
+tqdm>=4.64.0            # Progress bars for long operations
+colorama>=0.4.5         # Cross-platform colored terminal text
+click>=8.1.0            # Alternative CLI framework (future enhancement)
+
+# Security scanning (development)
+bandit>=1.7.0           # Security linter
+safety>=2.0.0           # Security vulnerability scanner
