@@ -347,9 +347,53 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Suduli Kumar**
-- **Role**: Test Automation Engineer
+- **Role**: Senior Test Automation Engineer
 - **Email**: [suduli.office@gmail.com]
 - **LinkedIn**: [linkedin.com/in/suduli-kumar]
 - **GitHub**: [@suduli](https://github.com/suduli)
 
-## 🙏 Acknowledg
+## 🙏 Acknowledgments
+
+- **Vector Informatik GmbH** for VectorCAST testing framework
+- **Python Community** for excellent libraries (pandas, openpyxl)
+- **Open Source Contributors** for inspiration and best practices
+- **Quality Assurance Teams** for feedback and feature requests
+
+## 📚 Additional Resources
+
+### Documentation
+- [VectorCAST User Guide](https://www.vector.com/int/en/products/products-a-z/software/vectorcast/)
+- [Python pandas Documentation](https://pandas.pydata.org/docs/)
+- [openpyxl Documentation](https://openpyxl.readthedocs.io/)
+
+### Related Projects
+- [VectorCAST Jenkins Plugin](https://plugins.jenkins.io/vectorcast-execution/)
+- [Test Management Tools](https://github.com/topics/test-management)
+- [Code Coverage Analysis](https://github.com/topics/code-coverage)
+
+## 📞 Support
+
+### Getting Help
+- **GitHub Issues**: [Report bugs or request features](https://github.com/suduli/VectorCAST_Report_Analyser/issues)
+- **Documentation**: Check this README and code comments
+- **Community**: Join discussions in GitHub Discussions
+
+### Enterprise Support
+For enterprise support, custom features, or consulting services, please contact:
+- Email: [suduli.office@gmail.com]
+- LinkedIn: [Professional inquiries welcome[https://www.linkedin.com/in/suduli/]]
+
+## 📈 Project Statistics
+
+![GitHub stars](https://img.shields.io/github/stars/suduli/VectorCAST_Report_Analyser)
+![GitHub forks](https://img.shields.io/github/forks/suduli/VectorCAST_Report_Analyser)
+![GitHub issues](https://img.shields.io/github/issues/suduli/VectorCAST_Report_Analyser)
+![GitHub last commit](https://img.shields.io/github/last-commit/suduli/VectorCAST_Report_Analyser)
+
+---
+
+⭐ **If this tool helped you, please star the repository!**
+
+🔗 **Share with your team and contribute to the automotive testing community!**
+
+*Built with ❤️ for test engineers and quality assurance professionals worldwide*
